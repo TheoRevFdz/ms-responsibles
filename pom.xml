@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>nttdata.bootcamp</groupId>
-	<artifactId>ms-customer-account</artifactId>
+	<artifactId>ms-responsibles</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ms-customer-account</name>
+	<name>ms-responsibles</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
