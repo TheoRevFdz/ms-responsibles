@@ -1,4 +1,4 @@
-package nttdata.bootcamp.mscustomeraccount.interfaces;
+package nttdata.bootcamp.mscustomeraccount.interfaces.impl;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 
 import nttdata.bootcamp.mscustomeraccount.config.CustomerRestConfig;
 import nttdata.bootcamp.mscustomeraccount.dto.CustomerDTO;
+import nttdata.bootcamp.mscustomeraccount.interfaces.ICustomerService;
 
 @Service
 public class CustomerServiceImpl implements ICustomerService {

@@ -1,4 +1,4 @@
-package nttdata.bootcamp.mscustomeraccount.interfaces;
+package nttdata.bootcamp.mscustomeraccount.interfaces.impl;
 
 import java.util.List;
 
@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import nttdata.bootcamp.mscustomeraccount.infraestructure.ICustomerAccountRepository;
+import nttdata.bootcamp.mscustomeraccount.interfaces.ICustomerAccountService;
 import nttdata.bootcamp.mscustomeraccount.model.CustomerAccount;
 
 @Service
